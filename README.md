@@ -1,4 +1,4 @@
-# ManimMusic 🎵
+# MusicLab 🎵
 
 A powerful music visualization extension for [Manim](https://www.manim.community/), enabling you to create stunning animated music theory visualizations, sheet music, and interactive piano keyboards directly in your Manim scenes.
 
